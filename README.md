@@ -1,2 +1,0 @@
-# Responsive-
-Little responsive design 
